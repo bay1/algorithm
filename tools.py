@@ -6,5 +6,5 @@ def run_time(func):
         start = timeit.default_timer()
         func(*args, **kw)
         end = timeit.default_timer() - start
-        print("程序 %s 此次运行耗时: %f seconds" %(func.__name__, end))
+        print("函数 %s 此次运行耗时: %f seconds" %(func.__name__, end))
     return wrapper

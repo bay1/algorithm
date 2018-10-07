@@ -13,4 +13,4 @@ def minimumTotal(triangle):
             lenList[i] = numList[i] + min(lenList[i], lenList[i+1])
     print(lenList[0])
 
-stmt=minimumTotal([[2], [3, 4], [6, 5, 7], [4, 1, 8, 3]])
+minimumTotal([[2], [3, 4], [6, 5, 7], [4, 1, 8, 3]])
