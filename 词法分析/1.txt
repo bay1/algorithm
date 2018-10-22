@@ -1,0 +1,9 @@
+{
+    fun start
+} {test 123}
+if x<2,.。
+then y=(x+3)*4。
+else y=x-3
+read y=x*8
+write a10=35
+end {fun end}

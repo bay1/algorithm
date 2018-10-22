@@ -2,15 +2,18 @@
 
 杂乱的算法记录
 
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+<!-- TOC -->
 
-* [leetcode 120. 三角形最小路径和](#-leetcode120.-Triangle)
+- [Algorithm](#algorithm)
+    - [leetcode 120. 三角形最小路径和](#leetcode-120-三角形最小路径和)
+        - [**要求**](#要求)
+        - [**题解**](#题解)
 
-<!-- markdown-toc end -->
+<!-- /TOC -->
 
-## leetcode120. Triangle
+## leetcode 120. 三角形最小路径和
 
-### **说明**
+### **要求**
 
 给定一个三角形，找出自顶向下的最小路径和。每一步只能移动到下一行中相邻的结点上。
 
